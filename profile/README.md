@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
 
-- 🔭 I’m currently working on getting memebers for this team! [https://github.com/Olivem1234567/olivem1234567.github.io](https://github.com/Olivem1234567/olivem1234567.github.io)
+- 🔭 I’m currently working on getting memebers for this team!
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
