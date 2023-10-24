@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olivem1234567&label=Profile%20views&color=0e75b6&style=flat" alt="olivem1234567" /> </p>
 
-- 🔭 I’m currently working on getting memebers for this team!
+- 🔭 I’m currently working on getting members for this team!
 
 
 <p align="left">
